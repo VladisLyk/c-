@@ -7,7 +7,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "main.cpp"
+                "${file}"
             ],
             "group": "build"
         },
